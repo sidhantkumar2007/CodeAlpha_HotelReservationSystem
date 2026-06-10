@@ -1,5 +1,7 @@
 # 🏨 Hotel Reservation System
 
+![Screenshot](https://github.com/sidhantkumar2007/CodeAlpha_HotelReservationSystem/blob/main/Screenshot%202026-06-10%20131949.png?raw=true)
+
 A Java Swing desktop application simulating a complete hotel reservation management system.
 
 ---
